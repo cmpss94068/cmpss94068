@@ -13,6 +13,18 @@
 <h1 align="center">🔥 Github Streaks</h1>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cmpss94068&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="cmpss94068" /></p>
 
+ <h1 align="left">🛠️ Building projects with</h1>
+ <p align="left">
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://img.shields.io/badge/-Python-000000?style=flat&logo=python" width="36" height="36" alt="HTML5" /></a>
+
+ 
+ <h1 align="left">Some of the technologies I have worked with</h1>
+ 
+ ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+ ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+ ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+ ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+ ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)
 
 <!--
 **cmpss94068/cmpss94068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

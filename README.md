@@ -1,19 +1,17 @@
-### Hi there 👋
-
 <h1 align="center">🏆 Github Achievements</h1>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jiunjiun69&theme=discord&column=3&margin-w=15&margin-h=15" alt="" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=cmpss94068&theme=discord&column=3&margin-w=15&margin-h=15" alt="" /></p>
 
 <h1 align="center">⚡ Github Stats</h1>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiunjiun69&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="jiunjiun69's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiunjiun69&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cmpss94068&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="cmpss94068's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmpss94068&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <h1 align="center">🔎 Github Profile Details</h1>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiunjiun69&theme=github_dark" alt="jiunjiun69" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmpss94068&theme=github_dark" alt="cmpss94068" align = "center"/></p>
 
 <h1 align="center">🔥 Github Streaks</h1>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jiunjiun69&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="jiunjiun69" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cmpss94068&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="cmpss94068" /></p>
 
 
 <!--

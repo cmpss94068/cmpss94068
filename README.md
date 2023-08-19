@@ -20,7 +20,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5" width="100" height="30" alt="HTML5" /></a>
  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/badge/-CSS-000000style=flat&logo=CSS3&logoColor=1572B6" width="100" height="30" alt="CSS" /></a>
  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/badge/-CSS-000000style=flat&logo=CSS3&logoColor=1572B6" width="100" height="30" alt="CSS" /></a>
- <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C++" width="100" height="30" alt="C++" /></a>
+ <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=C%2B%2B" width="100" height="30" alt="C++" /></a>
  </p>
  
  <h1 align="left">Some of the technologies I have worked with</h1>

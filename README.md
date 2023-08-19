@@ -15,7 +15,7 @@
 
  <h1 align="left">🛠️ Building projects with</h1>
  <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" width="100" height="36" alt="python" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" width="100" height="36" alt="python" /></a>
 
  
  <h1 align="left">Some of the technologies I have worked with</h1>

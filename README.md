@@ -26,9 +26,8 @@
  <h1 align="left">Some of the technologies I have worked with</h1>
  <p align="left">
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" width="100" height="30" alt="linux" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker
-" width="100" height="30" alt="github" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" width="100" height="30" alt="github" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" width="100" height="30" alt="github" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" width="100" height="30" alt="github" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongoDB" width="100" height="30" alt="mongoDB" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql
 " width="100" height="30" alt="mysql" /></a>

@@ -29,10 +29,8 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" width="100" height="30" alt="github" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" width="100" height="30" alt="github" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongoDB" width="100" height="30" alt="mongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql
-" width="100" height="30" alt="mysql" /></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel
-" width="100" height="30" alt="laravel" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" width="100" height="30" alt="mysql" /></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel" width="100" height="30" alt="laravel" /></a>
  </p>
 <!--
 **cmpss94068/cmpss94068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

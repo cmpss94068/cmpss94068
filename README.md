@@ -15,7 +15,11 @@
 
  <h1 align="left">🛠️ Building projects with</h1>
  <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" width="100" height="30" alt="python" /></a>
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" width="100" height="30" alt="python" /></a>
+ <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php" width="100" height="30" alt="php" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5" width="100" height="30" alt="HTML5" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5" width="100" height="30" alt="HTML5" /></a>
+ 
 
  
  <h1 align="left">Some of the technologies I have worked with</h1>
